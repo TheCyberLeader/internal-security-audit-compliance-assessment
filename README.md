@@ -132,13 +132,6 @@ The audit revealed significant security vulnerabilities stemming from inadequate
 - **Strategic Planning:** Development of prioritized, risk-based remediation roadmap
 - **Professional Documentation:** Clear, actionable audit reporting for stakeholders
 
-## 📁 Project Deliverables
-
-- [Controls Assessment Checklist](./controls-assessment.md)
-- [Compliance Evaluation](./compliance-checklist.md)  
-- [Risk Assessment Report](./risk-assessment.md)
-- [Remediation Roadmap](./recommendations.md)
-
 ---
 
 *This project demonstrates practical application of cybersecurity audit methodology using industry-standard frameworks. While conducted on a fictional company scenario, the skills and methodologies shown are directly applicable to real-world security assessments.*
