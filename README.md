@@ -5,7 +5,7 @@
 
 ![Project Type](https://img.shields.io/badge/Project%20Type-Educational%20Case%20Study-blue)
 ![Company](https://img.shields.io/badge/Company-Fictional%20(Botium%20Toys)-orange)
-![Framework](https://img.shields.io/badge/Framework-NIST%20CSF-green)
+![Framework](https://img.shields.io/badge/Framework-NIST%20CSF2.0-green)
 ![Risk Level](https://img.shields.io/badge/Risk%20Level-High%20(8/10)-red)
 ![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
 
