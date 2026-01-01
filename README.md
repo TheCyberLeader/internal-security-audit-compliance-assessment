@@ -1,8 +1,6 @@
 # Internal Security Audit & Compliance Assessment 🕵️
 ## Botium Toys Case Study - NIST Cybersecurity Framework Implementation
 
-> **Educational Project:** Comprehensive security audit conducted on Botium Toys, a fictional company scenario designed for cybersecurity training. Demonstrates real-world audit methodology and security frameworks.
-
 ![Project Type](https://img.shields.io/badge/Project%20Type-Educational%20Case%20Study-blue)
 ![Company](https://img.shields.io/badge/Company-Fictional%20(Botium%20Toys)-orange)
 ![Framework](https://img.shields.io/badge/Framework-NIST%20CSF2.0-green)
@@ -11,7 +9,7 @@
 
 ## 📋 Project Overview
 
-Conducted a comprehensive internal security audit for Botium Toys, a fictional small U.S. business expanding internationally. The audit assessed current security controls and compliance posture using the NIST Cybersecurity Framework to identify critical security gaps and provide actionable remediation recommendations.
+Conducted a comprehensive internal security audit for Botium Toys, a fictional small U.S. business expanding internationally. The audit assessed current security controls and compliance posture using the NIST Cybersecurity Framework to identify critical security gaps and provide actionable remediation recommendations. 
 
 ### Key Objectives
 - Evaluate existing security controls and identify gaps
