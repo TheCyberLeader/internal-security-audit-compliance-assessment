@@ -1065,7 +1065,7 @@ This audit demonstrates readiness for security audit, governance, risk, and comp
 
 ## 🔗 Navigation
 
-[⬅️ Back to Portfolio Home](https://github.com/TheCyberLeader) | [📂 View All Projects](https://github.com/TheCyberLeader/hands-on-cyber-leadership) |
+| [📂 View All Projects](https://github.com/TheCyberLeader/hands-on-cyber-leadership) |
 
 ---
 
